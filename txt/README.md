@@ -1,4 +1,0 @@
-# Introduction
-
-## Tutorial Tareas Iniciales
-
